@@ -42,7 +42,7 @@ If you want to change the function, you need to change it in line 438 in the cod
 ## Mathmatical explanation
 A Riemann sum is a certain kind of approximation of an integral by a finite sum.
 
-![Reimann's method](https://github.com/Eden998/ProcessingProjects/blob/main/Integrals/images/reimann.png)
+![Reimann's method](https://github.com/Eden998/blob/main/Integrals/images/reimann.png)
 
 ## Code Implementation
 
