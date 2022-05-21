@@ -35,7 +35,7 @@ If you want to change the function, you need to change it in line 438 in the cod
 
 ### Demonstration of the program:
 
-![Integral Calculator Gif](https://github.com/Eden998/ProcessingProjects/blob/main/Integrals/images/integrals.gif)
+![Integral Calculator Gif](https://github.com/Eden998/IntegralsVisualizer/blob/main/images/integrals.gif)
 
 # Riemann's method
 
